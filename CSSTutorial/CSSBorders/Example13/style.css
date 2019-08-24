@@ -1,0 +1,19 @@
+p {
+    border-style: solid;
+}
+
+p.one {
+    border-color: #0000ff;
+}
+
+p.two {
+    border-color: #ff0000 #0000ff;
+}
+
+p.three {
+    border-color: #ff0000 #00ff00 #0000ff;
+}
+
+p.four {
+    border-color: #ff0000 #00ff00 #0000ff rgb(250,0,255);
+}
