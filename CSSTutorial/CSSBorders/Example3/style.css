@@ -1,0 +1,15 @@
+p.one, p.two, p.three {
+    border-style: solid;
+}
+
+p.one {
+    border-color: red;
+}
+
+p.two {
+    border-color: green;
+}
+
+p.three {
+    border-color: red green blue yellow;
+}
