@@ -1,0 +1,14 @@
+img.one {
+    height: auto;
+}
+
+img.two {
+    height: 200px;
+    width: 200px;
+}
+
+div.three {
+    height: 300px;
+    width: 300px;
+    background-color: powderblue;
+}
